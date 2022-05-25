@@ -1,0 +1,16 @@
+.state {
+    margin-bottom: 30px;
+}
+
+.btn {
+    margin-top: 80px;
+    cursor: pointer;
+}
+
+.inputs-off {
+    color: red;
+}
+
+.display {
+    display: inline-block;
+}
