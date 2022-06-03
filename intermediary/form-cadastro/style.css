@@ -45,3 +45,11 @@
     padding: 7px;
     cursor: pointer;
 }
+
+.error {
+    font-size: 11px;
+    background-color: #FF0000;
+    color: #FFF;
+    padding: 4px;
+    border-radius: 5px;
+}
